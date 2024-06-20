@@ -1,0 +1,1 @@
+This repository contains all the codes related to the Internship opportunity provided by CODSOFT. Due to the large file size of my projects, I have provided a link inside each of the folders that lead to the actual repository of the app. 
